@@ -196,7 +196,7 @@
 &trans                &trans                           &trans                &trans                 &trans         &trans                  &trans     &trans
             >;
 
-            sensor-bindings = <&scroll_left_right>, <&scroll_left_right>;
+            sensor-bindings = <&volume_up_down>, <&scroll_left_right>;
         };
 
         SYSTEM_LAYER {
