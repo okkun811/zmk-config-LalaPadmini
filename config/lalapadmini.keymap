@@ -149,6 +149,11 @@
             bindings = <&kp LWIN>;
             key-positions = <30 31>;
         };
+
+        backspace {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <34 35>;
+        };
     };
 
     macros {
